@@ -23,6 +23,10 @@ namespace FitnessClub
         public MainWindow()
         {
             InitializeComponent();
+
+            //some changes 2
+
+            //Some additional changes
         }
     }
 }
