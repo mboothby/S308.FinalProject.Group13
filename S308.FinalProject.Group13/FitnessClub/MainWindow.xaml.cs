@@ -26,7 +26,7 @@ namespace FitnessClub
 
             //some changes 2
 
-            //Some additional changes
+            ///other changes
         }
     }
 }
